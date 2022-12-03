@@ -10,15 +10,15 @@ export const Container = styled(Base)`
   background-color: #000;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
+  padding: 20px;
 `;
 
 export const ArrayContainer = styled(Base)`
- gap: 10px;
+flex-direction: column;
+  gap: 10px;
+  margin: 20px;
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: bold;
 `;
 
-export const ArrayItem = styled.div`
- 
-`;
-
-
+export const ArrayItem = styled.div``;
