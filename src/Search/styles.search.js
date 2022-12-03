@@ -50,7 +50,6 @@ export const ListItem = styled.div`
     background-color: #f2f2f2;
     cursor: pointer;
     font-weight: bold;
-    /* box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2); */
   }
 `;
 

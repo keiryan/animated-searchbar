@@ -17,12 +17,13 @@ const list = [
 export default function App() {
   return (
     <Container>
-      <Search list={list} />
       <ArrayContainer>
+        Possible searches:
         {list.map((item) => (
-          <ArrayItem key={list}>{item}</ArrayItem>
+          <ArrayItem key={item}>{item}</ArrayItem>
         ))}
       </ArrayContainer>
+      <Search list={list} />
     </Container>
   );
 }
