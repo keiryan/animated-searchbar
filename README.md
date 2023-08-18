@@ -1,4 +1,4 @@
-Experimenting with an animated search bar with listed search results. 🔎 📃
+Experimenting with an animated search bar with listed search results. 🔎 📃⚡️
 
 🧑‍💻 Live demo: https://animated-searchbar.vercel.app/
 
